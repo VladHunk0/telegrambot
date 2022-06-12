@@ -1,1 +1,1 @@
-TOKEN = '5309740618:AAHes7dodHS2lX0Gis0xkIR5GU2mrbhEyfw' # bot  token from @BotFather
+TOKEN = 'токен_вашого_боту' # bot  token from @BotFather
