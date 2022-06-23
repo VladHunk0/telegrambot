@@ -5,7 +5,7 @@ from ReadTest import dc
 from ConformTest import dd
 from GapsTest import dg
 
-bot = telebot.TeleBot('5309740618:AAHes7dodHS2lX0Gis0xkIR5GU2mrbhEyfw')
+bot = telebot.TeleBot('ваш_токен')
 
 #--------------------------------------------------------------------------------------------------------------
 
